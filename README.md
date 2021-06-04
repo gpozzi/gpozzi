@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hello there! I’m Gonzalo, I'm 33 years old and I come from La Plata City, Argentina.
+- 👨‍💻 I’m Gonzalo, I'm 33 years old and I come from La Plata City, Argentina.
 
 - ⚡ Currently I'm working as a HR Coordinator in Edelap SA (the city's Electrical Company).
 
