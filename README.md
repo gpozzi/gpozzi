@@ -6,6 +6,6 @@
 
 - 👀 I’m interested in developing a career into Data Analytics.
 
-- 🌱 I’m currently learning Python for data, Tableau, Power BI and SQL and I'm really looking forward to applying them in new projects.
+- 🌱 I’m actively learning Python for data, Tableau, Power BI and SQL and I really look forward to applying them in new projects.
 
 - 📫 How to reach me: gonzalopozzi@gmail.com.
