@@ -18,5 +18,5 @@
 
 ## 🏆 My Github Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpozzi&theme=tokyonight) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gpozzi&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpozzi&theme=default) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gpozzi&show_icons=true&theme=default)
 
