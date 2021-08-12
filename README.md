@@ -21,7 +21,7 @@
 ### And these project management tools
 
 <p align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" height="40" style="vertical-align:top; margin:4px"> <img src="https://img.icons8.com/color/452/trello.png" alt="Notion" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" height="40" style="vertical-align:top; margin:4px"> <img src="https://img.icons8.com/color/452/trello.png" alt="Notion" height="40" style="vertical-align:top; margin:4px"> <img src="https://image.flaticon.com/icons/png/512/2111/2111615.png" alt="Slack" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## 🏆 My Github Stats:
