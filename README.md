@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m Gonzalo, I'm 33 years old and I come from La Plata City, Argentina.
+- 👨‍💻 I’m Gonzalo, I'm 33 years old and I'm from La Plata City, Argentina.
 
-- ⚡ I've been a project coordinator / planner and I'm currently working as business consultant.
+- ⚡ I've been a construction project coordinator / planner and I'm currently working as business consultant.
 
 - 👀 I’m interested in developing a career into Data Analytics.
 
