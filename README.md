@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in developing a career into Data Analytics.
 
-- 🌱 Actively learning Python for data, Tableau, Power BI and SQL and really looking forward to applying them in new projects. Below, you will see the best projects I have done. Currently, they're binned into three categories: **`[data visualization](https://github.com/gpozzi/data-visualization)`**, **`[analytics projects](https://github.com/gpozzi/python-analytics-projects)`**, **`[machine learning](https://github.com/gpozzi/machine-learning)`** and **`[sql projects](https://github.com/gpozzi/sql-projects)`**. Each category has projects in it and will be accompanied by some form of documentation.
+- 🌱 Actively learning Python for data, Tableau, Power BI and SQL and really looking forward to applying them in new projects. Below, you will see the best projects I have done. Currently, they're binned into three categories: **[`data visualization`](https://github.com/gpozzi/data-visualization)**, **`[analytics projects](https://github.com/gpozzi/python-analytics-projects)`**, **`[machine learning](https://github.com/gpozzi/machine-learning)`** and **`[sql projects](https://github.com/gpozzi/sql-projects)`**. Each category has projects in it and will be accompanied by some form of documentation.
 
 - 📫 How to reach me: gonzalopozzi@gmail.com. Or visit my [portfolio webpage](https://gonzalopozzi.com.ar/)
 
