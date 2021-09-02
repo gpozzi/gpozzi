@@ -4,7 +4,7 @@
 
 - ⚡ I've been a construction project coordinator / planner and I'm currently working as business consultant.
 
-- 👀 I’m interested in developing a career into Data Analytics.
+- 👀 I’m interested in developing a career into Data Analytics and I've been self teaching tech data stuff for the last 2 years.
 
 - 🌱 Actively learning Python for data, Tableau, Power BI and SQL and really looking forward to applying them in new projects. Below, you will see the best projects I have done. You can binge read them all in this **[`general index`](https://github.com/gpozzi/index_general/edit/main/README.md)**, or you can visit the four categories i've binned them in: **[`data visualization`](https://github.com/gpozzi/data-visualization)**, **[`analytics projects`](https://github.com/gpozzi/python-analytics-projects)**, **[`machine learning`](https://github.com/gpozzi/machine-learning)** and **[`sql projects`](https://github.com/gpozzi/sql-projects)**. Each category has projects in it and will be accompanied by some form of documentation.
 
