@@ -2,11 +2,9 @@
 
 - 👨‍💻 I’m Gonzalo, I'm 33 years old and I'm from La Plata City, Argentina.
 
-- ⚡ I've been a construction project coordinator / planner and I'm currently working as business consultant.
+- 👀 I’m interested in developing a career into Data Analytics and I've been self teaching data stuff for the last 2 years.
 
-- 👀 I’m interested in developing a career into Data Analytics and I've been self teaching tech data stuff for the last 2 years.
-
-- 🌱 Actively learning Python for data, Tableau, Power BI and SQL and really looking forward to applying them in new projects. Below, you will see the best projects I have done. You can binge read them all in this **[`general index`](https://github.com/gpozzi/index_general/blob/main/README.md)**, or you can visit the four categories i've binned them in: **[`data visualization`](https://github.com/gpozzi/data-visualization)**, **[`analytics projects`](https://github.com/gpozzi/python-analytics-projects)**, **[`machine learning`](https://github.com/gpozzi/machine-learning)** and **[`sql projects`](https://github.com/gpozzi/sql-projects)**. Each category has projects in it and will be accompanied by some form of documentation.
+- 🌱 Actively learning Python for data, Tableau, Power BI and SQL and really looking forward to applying them in new projects. Below, you will see the best ones I have done. I've compiled them all in this **[`general index`](https://github.com/gpozzi/index_general/blob/main/README.md)**. Or if you want to, you can visit the four categories i've binned them in: **[`data visualization`](https://github.com/gpozzi/data-visualization)**, **[`analytics projects`](https://github.com/gpozzi/python-analytics-projects)**, **[`machine learning`](https://github.com/gpozzi/machine-learning)** and **[`sql projects`](https://github.com/gpozzi/sql-projects)**. Each category has projects in it and will be accompanied by some form of documentation.
 
 - 📫 How to reach me: gonzalopozzi@gmail.com. Or visit my [portfolio webpage](https://gonzalopozzi.com.ar/)
 
@@ -23,8 +21,3 @@
 <p align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/notion-2.svg" alt="Notion" height="40" style="vertical-align:top; margin:4px"> <img src="https://img.icons8.com/color/452/trello.png" alt="Notion" height="40" style="vertical-align:top; margin:4px"> <img src="https://image.flaticon.com/icons/png/512/2111/2111615.png" alt="Slack" height="40" style="vertical-align:top; margin:4px">
 </p>
-
-## 🏆 My Github Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpozzi&theme=default) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gpozzi&show_icons=true&theme=default)
-
