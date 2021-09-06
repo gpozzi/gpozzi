@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m Gonzalo, I'm 33 years old and I'm from La Plata City, Argentina.
+- 👨‍💻 My name is Gonzalo, and I'm from La Plata City, Argentina.
 
 - 👀 I’m interested in developing a career into Data Analytics and I've been self teaching data stuff for the last 2 years.
 
-- 🌱 Actively learning Python for data, Tableau, Power BI and SQL and really looking forward to applying them in new projects. Below, you will see the best ones I have done. I've compiled them all in this **[`general index`](https://github.com/gpozzi/index_general/blob/main/README.md)**. Or if you want to, you can visit the four categories i've binned them in: **[`data visualization`](https://github.com/gpozzi/data-visualization)**, **[`analytics projects`](https://github.com/gpozzi/python-analytics-projects)**, **[`machine learning`](https://github.com/gpozzi/machine-learning)** and **[`sql projects`](https://github.com/gpozzi/sql-projects)**. Each category has projects in it and will be accompanied by some form of documentation.
+- 🌱 I'm actively learning Python for data, Tableau, Power BI and SQL and really looking forward to applying them in new projects. Below, you will see the best ones I have done. I've compiled them all in this **[`general index`](https://github.com/gpozzi/index_general/blob/main/README.md)**. Or if you want to, you can visit the four categories i've binned them in: **[`data visualization`](https://github.com/gpozzi/data-visualization)**, **[`analytics projects`](https://github.com/gpozzi/python-analytics-projects)**, **[`machine learning`](https://github.com/gpozzi/machine-learning)** and **[`sql projects`](https://github.com/gpozzi/sql-projects)**. Each category has projects in it and will be accompanied by some form of documentation.
 
 - 📫 How to reach me: gonzalopozzi@gmail.com. Or visit my [portfolio webpage](https://gonzalopozzi.com.ar/)
 
